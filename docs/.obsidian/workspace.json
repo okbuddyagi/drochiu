@@ -11,10 +11,14 @@
             "id": "6044c0c0dac8606f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -164,9 +168,9 @@
   },
   "active": "6044c0c0dac8606f",
   "lastOpenFiles": [
+    "關於趙醫生.md",
     "index.md",
     "1. 序.md",
-    "關於趙醫生.md",
     "3. 睡眠/3.1 睡眠極重要.md",
     "3. 睡眠"
   ]
