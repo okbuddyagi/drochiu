@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a7496634db4ac7",
+        "id": "65bae592116731ae",
         "type": "tabs",
         "children": [
           {
-            "id": "ec601cdc8da23b73",
+            "id": "6044c0c0dac8606f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,11 +162,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ec601cdc8da23b73",
+  "active": "6044c0c0dac8606f",
   "lastOpenFiles": [
-    "3. 睡眠/3.1 睡眠極重要.md",
+    "index.md",
     "1. 序.md",
-    "- 關於趙醫生.md",
+    "關於趙醫生.md",
+    "3. 睡眠/3.1 睡眠極重要.md",
     "3. 睡眠"
   ]
 }
